@@ -1,0 +1,6 @@
+{
+  "markdown.marp.enableHtml": true,
+  "markdown.marp.themes": [
+    "https://raw.githubusercontent.com/dracula/marp/master/dracula/dracula.css"
+  ]
+}
